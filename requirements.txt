@@ -1,0 +1,9 @@
+openai
+psycopg
+python-dotenv
+scikit-learn
+redis
+python-dotenv
+fastapi
+uvicorn
+chromadb
